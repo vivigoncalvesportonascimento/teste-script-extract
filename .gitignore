@@ -1,0 +1,15 @@
+# Arquivos de credenciais (NUNCA REMOVA ESTA LINHA)
+secrets.py
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema operacional (lixo)
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais (se usar venv)
+.venv/
+venv/
+env/
